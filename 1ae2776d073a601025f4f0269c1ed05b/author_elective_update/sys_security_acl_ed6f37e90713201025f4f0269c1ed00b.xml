@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_591472_input_tra_test</description>
+        <name>x_591472_input_tra_test</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-04 03:11:34</sys_created_on>
+        <sys_id>ed6f37e90713201025f4f0269c1ed00b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_591472_input_tra_test</sys_name>
+        <sys_package display_value="Input Travel App" source="x_591472_input_tra">1ae2776d073a601025f4f0269c1ed05b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Input Travel App">1ae2776d073a601025f4f0269c1ed05b</sys_scope>
+        <sys_update_name>sys_security_acl_ed6f37e90713201025f4f0269c1ed00b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-04 03:11:34</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Input Travel App">1ae2776d073a601025f4f0269c1ed05b</application>
+        <file_path/>
+        <instance_id>94bb6e63dba0330042b321c4059619d5</instance_id>
+        <instance_name>dev79477</instance_name>
+        <name>sys_security_acl_ed6f37e90713201025f4f0269c1ed00b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_591472_input_tra_test</description>
+        <name>x_591472_input_tra_test</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-04 03:11:34</sys_created_on>
+        <sys_id>ed6f37e90713201025f4f0269c1ed00b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_591472_input_tra_test</sys_name>
+        <sys_package display_value="Input Travel App" source="x_591472_input_tra">1ae2776d073a601025f4f0269c1ed05b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Input Travel App">1ae2776d073a601025f4f0269c1ed05b</sys_scope>
+        <sys_update_name>sys_security_acl_ed6f37e90713201025f4f0269c1ed00b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-04 03:11:34</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>]]></payload>
+        <payload_hash>-521372193</payload_hash>
+        <record_name>x_591472_input_tra_test</record_name>
+        <reverted_from/>
+        <source>5778a6f92f936010385d57892799b6e6</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-04 15:30:51</sys_created_on>
+        <sys_id>ba98223d2f936010385d57892799b64c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1789d8214970000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-04 15:30:51</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>7a98223d09936010c685c3de6d6bcc4c</update_guid>
+        <update_guid_history>7a98223d09936010c685c3de6d6bcc4c:-521372193</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-04 15:32:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>08cb9de4e16249cc83de3e3bd05bed04</sys_id>
+        <sys_metadata>ed6f37e90713201025f4f0269c1ed00b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_591472_input_tra_test</sys_name>
+        <sys_package display_value="Input Travel App" source="x_591472_input_tra">1ae2776d073a601025f4f0269c1ed05b</sys_package>
+        <sys_parent display_value="">7778e6f92f936010385d57892799b6c4</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Input Travel App">1ae2776d073a601025f4f0269c1ed05b</sys_scope>
+        <sys_scope_delete display_value="">6c094eda56234de6a2d96dfa789dbe21</sys_scope_delete>
+        <sys_update_name>sys_security_acl_ed6f37e90713201025f4f0269c1ed00b</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_ed6f37e90713201025f4f0269c1ed00b">ba98223d2f936010385d57892799b64c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-04 15:32:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

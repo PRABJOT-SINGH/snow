@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="travel app input import" max_length="40" name="x_591472_input_tra_travel_app_input_import" sizeclass="0" type="collection">
+    <element extends="sys_import_set_row" label="travel app input import" max_length="40" name="x_591472_input_tra_travel_app_input_import" type="collection">
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Assigned to" label="Assigned to" max_length="40" name="u_assigned_to" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Caller" label="Caller" max_length="40" name="u_caller" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Number" label="Number" max_length="40" name="u_number" type="string"/>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_591472_input_tra_test</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-04 15:30:23</sys_created_on>
+        <sys_id>b778e6f92f936010385d57892799b6d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_591472_input_tra_test</sys_name>
+        <sys_package display_value="Input Travel App" source="x_591472_input_tra">1ae2776d073a601025f4f0269c1ed05b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Input Travel App">1ae2776d073a601025f4f0269c1ed05b</sys_scope>
+        <sys_update_name>ua_table_licensing_config_b778e6f92f936010385d57892799b6d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-04 15:30:23</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Input Travel App">1ae2776d073a601025f4f0269c1ed05b</application>
+        <file_path/>
+        <instance_id>94bb6e63dba0330042b321c4059619d5</instance_id>
+        <instance_name>dev79477</instance_name>
+        <name>ua_table_licensing_config_b778e6f92f936010385d57892799b6d4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_591472_input_tra_test</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-04 15:30:23</sys_created_on><sys_id>b778e6f92f936010385d57892799b6d4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_591472_input_tra_test</sys_name><sys_package display_value="Input Travel App" source="x_591472_input_tra">1ae2776d073a601025f4f0269c1ed05b</sys_package><sys_policy/><sys_scope display_value="Input Travel App">1ae2776d073a601025f4f0269c1ed05b</sys_scope><sys_update_name>ua_table_licensing_config_b778e6f92f936010385d57892799b6d4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-04 15:30:23</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>-1265226572</payload_hash>
+        <record_name>x_591472_input_tra_test</record_name>
+        <reverted_from/>
+        <source>592cf8b0db302010ca79d1b1ca9619c7</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2020-11-27 22:26:05</sys_created_on>
+        <sys_id>e798623d2f936010385d57892799b67f</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1760bd03c480000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Table Subscription Configuration</type>
+        <update_guid>a798623df9936010a2d7181cd77b0d7f</update_guid>
+        <update_guid_history>a798623df9936010a2d7181cd77b0d7f:-1265226572</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-04 15:32:16</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>7d0ac7af52784f1387ac70bdcfb474c1</sys_id>
+        <sys_metadata>b778e6f92f936010385d57892799b6d4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_591472_input_tra_test</sys_name>
+        <sys_package display_value="Input Travel App" source="x_591472_input_tra">1ae2776d073a601025f4f0269c1ed05b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Input Travel App">1ae2776d073a601025f4f0269c1ed05b</sys_scope>
+        <sys_scope_delete display_value="">6c094eda56234de6a2d96dfa789dbe21</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_b778e6f92f936010385d57892799b6d4</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_b778e6f92f936010385d57892799b6d4">e798623d2f936010385d57892799b67f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-04 15:32:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
